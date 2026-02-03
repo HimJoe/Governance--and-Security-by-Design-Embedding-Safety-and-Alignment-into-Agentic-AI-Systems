@@ -531,7 +531,7 @@ Special thanks to the IASEAI'26 reviewers for their valuable feedback.
 For questions, issues, or collaboration inquiries:
 - **GitHub Issues**: [github.com/HimJoe/governance-security-by-design/issues]([https://github.com/yourusername/governance-security-by-design/issues](https://github.com/HimJoe/Governance--and-Security-by-Design-Embedding-Safety-and-Alignment-into-Agentic-AI-Systems/edit/main/README.md))
 - **Email**: hj@himanshujoshi.ai
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+
 
 ---
 
